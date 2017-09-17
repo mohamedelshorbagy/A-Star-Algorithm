@@ -217,7 +217,7 @@ function draw() {
 
 
   noFill();
-  stroke(52 , 152 , 219);
+  stroke('rgb(46, 204, 113)');
   strokeWeight(w / 2);
   beginShape();
   for(var i = 0 ; i < path.length;i++) {
